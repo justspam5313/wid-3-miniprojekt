@@ -1,0 +1,30 @@
+.Toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 16px;
+  border: 2px solid #888;
+}
+
+.Logo {
+  height: 40px;
+}
+
+.AppName {
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #007cc3;
+}
+
+.Button {
+  padding: 6px 14px;
+  font-size: medium;
+  background-color: #007cc3;
+  color: white;
+  border: none;
+}
+
+.SuchText {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
